@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Base class
+// Baseclass
 class Animal {
 public:
     // Virtual function for polymorphism
